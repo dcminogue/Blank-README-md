@@ -5,3 +5,5 @@ This repository contains all the notes taken by [Dan](https://github.com/dcminog
 ## Table of Contents
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
+
+  
